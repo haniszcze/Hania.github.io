@@ -1,12 +1,12 @@
 remote_theme: StowarzyszenieSamopal/agency-jekyll-theme
 
 url: https://samopal.pl/Hania.github.io/
-baseurl: /
+baseurl: /Hania.github.io/
 
 # Site settings
 title: Time 4 Adventure
-email: firmowa@poczta_nie_dziala.com
-description: "Organizujemy super wycieczki. Uczymy jezdzic na nartach i deskach. Nasi instruktorzy są super!!"
+email: firmowa@poczta.com
+description: "Organizujemy super wycieczki. Uczymy jezdzic na nartach i deskach. Nasi instruktorzy są super"
 
 
 # Team names, titles and social links
@@ -48,8 +48,6 @@ people:
 social:
   - title: twitter
     url: http://twitter.com/t4a
-  - title: facebook
-    url:
   - title: youtube 
     url: http://youtube/urzytkownicy/t4a
   - title: Samopałowy blog
@@ -58,7 +56,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: T4A Sp. zoo
-  - line: ul. Stawowa 3/4, 99-999 Wrocław
+  - line: ul. Stawowa 34, 99-999 Wrocław
 
 # Build settings
 markdown: kramdown
