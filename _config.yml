@@ -11,7 +11,7 @@ description: "Organizujemy super wycieczki. Uczymy jezdzic na nartach i deskach.
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Aga
   pic: 1
   position: Lead Designer
   social:
@@ -22,7 +22,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Bartek
   pic: 2
   position: Lead Marketer
   social:
@@ -33,7 +33,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Hania
   pic: 3
   position: Lead Developer
   social:
@@ -50,13 +50,12 @@ social:
     url: http://twitter.com/t4a
   - title: youtube 
     url: http://youtube/urzytkownicy/t4a
-  - title: Samopałowy blog
-    url: https://samopal.pl/blog.html
 
 # Postal address (add as many lines as necessary)
 address:
   - line: T4A Sp. zoo
-  - line: ul. Stawowa 34, 99-999 Wrocław
+  - line: ul. Stawowa 34
+  - line: 99-999 Wrocław
 
 # Build settings
 markdown: kramdown
