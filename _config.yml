@@ -1,0 +1,63 @@
+url: https://samopal.pl/Hania.github.io/
+baseurl: /
+
+# Site settings
+title: Time 4 Adventure
+email: firmowa@poczta_nie_dziala.pl
+description: "Organizujemy super wycieczki. Uczymy jezdzic na nartach i deskach. Nasi instruktorzy są super!"
+
+
+# Team names, titles and social links
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Larry Parker
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/t4a
+  - title: facebook
+    url:
+  - title: youtube 
+    url: http://youtube/urzytkownicy/t4a
+  - title: Samopałowy blog
+    url: https://samopal.pl/blog.html
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: T4A Sp. zoo
+  - line: ul. Stawowa 3/4, 99-999 Wrocław
+
+# Build settings
+markdown: kramdown
+permalink: pretty
