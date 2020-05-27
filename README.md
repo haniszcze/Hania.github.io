@@ -1,2 +1,2 @@
 # Hania.github.io
-[https://samopal.pl/Hania.github.io/](https://samopal.pl/Hania.github.io/)
+[https://haniszcze.github.io/Hania.github.io/](https://haniszcze.github.io/Hania.github.io/)
