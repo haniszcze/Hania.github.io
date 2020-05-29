@@ -87,7 +87,7 @@ img.emoji {
   $(function(){
     var includes = $('[data-include]');
     jQuery.each(includes, function(){
-      var file = 'views/' + $(this).data('include') + '.html';
+      var file = $(this).data('include');
       $(this).load(file);
     });
   });
@@ -96,8 +96,8 @@ img.emoji {
     </head>
     <body>
          
-		<div data-include="top"></div> 
-		<div data-include="karuzela"></div> 
+		<div data-include="../../includes/top.html"></div> 
+		<div data-include="../../includes/karuzela.html"></div> 
 		 
 		
         
