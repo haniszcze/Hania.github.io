@@ -16,9 +16,9 @@ article.onas {
 a { color: #0b5c94; }
 a:hover, a:focus { color: #1b6c94; }
 
-.offer-block .inner-block { border-bottom: 5px solid #0b5c94;
+.offer-block .inner-block { border-bottom: 5px solid #0b5c94; }
 
-
+ul.social-list a { font-size: 40px; }
 
 
 
