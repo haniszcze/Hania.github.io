@@ -1,0 +1,34 @@
+/*!  Nhance SCSS Framework (c) + Bootstrap v3.3.5 | By Nhance.pl */
+/*!  WARNING! DO NOT EDIT NOR DELETE THIS FILE ! */
+/*!  WARNING! Any changes please append to OVERWRITE.CSS file.  */
+/*!  UWAGA! PROSZE NIE EDYTOWAC I NIE USUWAC TEGO PLIKU */
+/*!  UWAGA! Wszelkie zmiany prosze wprowadzac do pliku OVERWRITE.CSS.  */
+@media (min-width: 1470px) { /* col-lg-up */ }
+@media (max-width: 1469px) { /* col-lg */ }
+@media (min-width: 1040px) { /* col-md-up */ }
+@media (max-width: 1039px) { /* col-md */
+  .trigger { display: block; }
+  .main-nav-block { position: absolute; top: 100%; left: 0; right: 0; }
+  ul.main-nav-list { margin-top: 0; height: auto; }
+  ul.main-nav-list li { float: none; display: block; } }
+@media (max-width: 767px) { /* col-sm */ }
+@media (max-width: 479px) { /* col-xs */
+  .col-xs-break { clear: both; width: 100%; }
+  .col-xs-break::before, .col-xs-break::after { display: block; clear: both; content: " "; }
+  .designed-block { width: 100%; } }
+@media (min-width: 1040px) and (max-width: 1469px) { /* smdesktop */ }
+@media (min-width: 768px) and (max-width: 1039px) { /* lgtablet */ }
+@media (min-width: 768px) { /* col-sm-up */ }
+@media (min-width: 480px) and (max-width: 767px) { /* lgphone */ }
+@media (min-width: 480px) { /* col-xs-up */ }
+@media (max-width: 767px) { /* col-sm */
+  table.responsive { margin-bottom: 0; }
+  table.responsive td, table.responsive th { position: relative; white-space: nowrap; overflow: hidden; }
+  table.responsive td:first-child, table.responsive th:first-child { display: none; }
+  table.responsive.pinned td { display: none; }
+  .pinned { position: absolute; left: 0; top: 0; background: #FFF; width: 35%; overflow: hidden; overflow-x: scroll; border-right: 1px solid #dedede; border-left: 1px solid #dedede; }
+  .pinned table { border-right: none; border-left: none; width: 100%; }
+  .pinned table th, .pinned table td { white-space: nowrap; }
+  .pinned td:last-child { border-bottom: 0; }
+  div.table-wrapper { position: relative; margin-bottom: 20px; overflow: hidden; border-right: 1px solid #dedede; }
+  div.table-wrapper div.scrollable { margin-left: 35%; overflow: scroll; overflow-y: hidden; } }
